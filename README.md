@@ -13,6 +13,7 @@ Many people have startup ideas, but most of them get stuck because they don’t 
 ## Core Features
 
 - **Startup Validation & Business Assistant**
+- Model code ready to deploy: https://drive.google.com/drive/folders/1gBRxgKtXjeqX9L_5oELusT9Ca6OH9GR7?usp=sharing
   - Conversational AI that helps users validate startup ideas
   - Guides pricing, target customers, and next steps
   - Focused on realistic and actionable advice
